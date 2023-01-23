@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sunyoung727
 - 👀 I’m interested in Data Analystics
-- 🌱 I’m currently learning in LikeLion
 - 💻 velog : https://velog.io/@psy4072
 
 <!---
